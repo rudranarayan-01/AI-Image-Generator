@@ -1,11 +1,5 @@
  
-
-<div align="center">
-  <br />
-    <a href="https://bit.ly/3LboNOQ" target="_blank">
-      <img src="https://i.postimg.cc/QMzcjy35/ai-img-generator.png" alt="Project Banner">
-    </a>
-  <br />
+# AI IMAGE GENERATOR APP
 
   <div>
     <img src="https://img.shields.io/badge/-React_Native-black?style=for-the-badge&logoColor=white&logo=react&color=61DAFB" alt="react-native" />
